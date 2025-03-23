@@ -2,3 +2,4 @@ dash==2.17.0
 numpy
 pandas
 plotly
+gunicorn
